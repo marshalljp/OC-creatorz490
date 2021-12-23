@@ -15,7 +15,10 @@ Hardware:
 - https://www.amazon.com/dp/B086ML4XSD?psc=1&ref=ppx_yo2_dt_b_product_details
 - NVMe 1TB
 - 32G RAM (16x2)
+- https://www.amazon.com/dp/B083TRRT13?psc=1&ref=ppx_yo2_dt_b_product_details
 - AMD Radeon RX 580
+- https://www.amazon.com/gp/product/B06ZZ6FMF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 
 Working:
 - On-board network
@@ -29,5 +32,5 @@ Maybe Working:
 - Handoff (Never used it)
 
 Not Working:
-- DRM
-- My 1TB USB disk for timemachine, for some reason.  Windows sees it, BIOS sees it, MacOS does not.
+- DRM.  No plans to support the hack in Big Sur and beyond.
+- My 1TB USB disk for timemachine, for some reason.  Windows sees it, BIOS sees it, MacOS does not.  Update:  After waking from sleep the disk showed up.  Not sure if it's here to stay.
