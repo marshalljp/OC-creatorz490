@@ -2,7 +2,7 @@
 Opencore 7.6 on ASUS ProArt Z490-CREATOR 
 
 OS:
-11.6.2 Big Sur
+12.5.1 Big Sur
 
 Hardware:
 - ASUS ProArt Z490-CREATOR
